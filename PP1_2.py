@@ -11,6 +11,7 @@ def q1():
     name = "Alex"
     print(name)
 
+
 def q2():
     low = 2
     mid = 3
