@@ -8,8 +8,8 @@
 #Write Assignment code here
 
 def q1():
-    name_ = "Alex"
-    print(name_)
+    name = "Alex"
+    print(name)
 
 def q2():
     low = 2
