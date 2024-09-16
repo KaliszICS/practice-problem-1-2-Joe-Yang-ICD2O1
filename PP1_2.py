@@ -1,4 +1,9 @@
-
+'''
+    Lesson: Variables and Data Types
+    Author: Joe Yang
+    Date Created: Sept 16, 2024
+    Date Last Modified: Sept 16, 2024
+'''
 
 #Write Assignment code here
 
